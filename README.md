@@ -1,11 +1,11 @@
-## 🚧 Status do Projeto: Em desenvolvimento ativo / Pesquisa aplicada iterativa.
-Nota: Os parâmetros dos modelos e o pipeline de redes neurais estão em constante evolução à medida que os testes e a validação experimental avançam.
-
 # 🛡️ Dynamic BioSecurity — Controle de Acesso e Detecção de Anomalias com Redes Neurais & Biometria Comportamental
 
 Sistema avançado de **Autenticação Contínua e Detecção de Anomalias em Tempo Real** utilizando arquitetura híbrida de Deep Learning (Redes Neurais Densas & LSTM) aplicada à **Biometria Comportamental (Keystroke Dynamics)**.
 
 Desenvolvido como projeto de pesquisa e portfólio prático por Alice Miranda (Ciência da Computação - PUC Minas), o sistema substitui barreiras de login estáticas por um monitoramento comportamental contínuo e transparente.
+
+#### 🚧 Status do Projeto: Em desenvolvimento ativo / Pesquisa aplicada iterativa.
+**Nota:** Os parâmetros dos modelos e o pipeline de redes neurais estão em constante evolução à medida que os testes e a validação experimental avançam.
 
 ## 🎯 Problema de Negócio & Abordagem Científica
 
